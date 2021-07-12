@@ -1,0 +1,58 @@
+body{
+    background-image: url("img.svg");
+}
+#main{
+    align-items: center;
+    margin: auto;
+    background-color: aliceblue;
+    height: 970px;
+    width: 750px;
+}
+#heading{
+    font-size: 40px;
+    text-align: center;
+}
+#form{
+    padding: 10px;
+    margin-right: 20px;
+    
+}
+label{
+    font-size: 20px;
+     
+}
+input{
+    border-radius: 10px;
+    font-size: 20px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+     
+    
+}
+input:hover{
+     background-color: cornflowerblue;
+}
+#gender{
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 4px;
+    width: 103%;
+}
+button{
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 25px;
+    border-radius: 25px;
+    width: 100%;
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
+button:hover{
+    background-color: white;
+    
+}
+button:active{
+    font-size: 24px;
+}
